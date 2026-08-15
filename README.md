@@ -17,7 +17,7 @@ Haz clic en el siguiente botón:
 
 O:
 
-1. Abre el archivo `.ipynb` en GitHub
+1. Abre el archivo `.ipynb` en `GitHub`
 2. Haz clic en **Open in Colab**
 
 ## 📘 Cómo reproducir el análisis
